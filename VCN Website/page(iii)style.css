@@ -1,0 +1,91 @@
+ul {
+    list-style-type: none;
+    
+    padding:40px;
+    overflow: hidden;
+    background-image: url("download.jpg");
+   
+}
+
+
+li {
+    float: left;
+    
+}
+
+li a { 
+    display: block;
+    color: green;
+    background-image: url("download.jpg");
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-family: Cursive;
+    
+}
+
+#vfclogo {
+    height:95px;
+}
+
+    
+/* Change link color to a darker shade on mouse hover*/
+
+li a:hover {
+    background-image: url("orange.jpg");
+}
+
+li a:active {
+    background-color: white;
+}
+h1{
+    float:left;
+    font-family: cursive;
+    color:#CCC;
+    font-size:26px;
+    padding-top:45px;
+    padding-right:65px;
+ }   
+
+body{
+    background-image: url("download.jpg");
+    min-width: 1200px;
+}
+#vidb {
+   
+	height: 600px;
+	background-color: #333;
+        width: 320.5px;
+        float:left;
+        border-radius: 5px;
+        background-image: url("download.jpg");
+        }
+#vidb2 {
+   
+	height: 600px;
+	background-color: #333;
+        width: 323px;
+        float:right;
+        border-radius: 5px;
+        background-image: url("download.jpg");
+        }
+
+
+
+
+
+
+h3 {
+    float: right;
+    padding-top:0px;
+    padding-right:10px;    
+    color: green;
+    font-family:forte;
+    
+}
+
+#footer {
+	height: 2.5px;
+	background-color: orange;
+        
+}
